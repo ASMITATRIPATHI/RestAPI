@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Apr 28 09:48:38 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018f-22ed-2798-000002818dd0 
+on database directory /home/asmita/Projects/course-api-data/mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/home/asmita/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=17.0.10+7-Ubuntu-122.04.1
+user.dir=/home/asmita/Projects/course-api-data
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-28-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
